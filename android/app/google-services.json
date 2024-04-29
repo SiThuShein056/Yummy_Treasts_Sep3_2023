@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452315773796",
+    "project_id": "magical-food-c203a",
+    "storage_bucket": "magical-food-c203a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452315773796:android:de6ace0dc884a8f9d61871",
+        "android_client_info": {
+          "package_name": "com.example.magical_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452315773796-q2hjrs9ovcs02o34m8kpqq99ojgm8jd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhjhCQMxvf8GpbLLbbvVmM70-rtl4ok6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452315773796-q2hjrs9ovcs02o34m8kpqq99ojgm8jd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
